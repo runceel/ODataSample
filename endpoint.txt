@@ -1,0 +1,6 @@
+
+
+
+http://localhost:3063/ODataSample-Web-EducationDomainService.svc/OData/
+
+http://localhost:3063/ODataSample-Web-EducationDomainService.svc/odata
